@@ -5,7 +5,7 @@
 | **姓名：** | xxx                | **专业：**    | 计算机科学与技术 |
 | **性别：** | 男                 | **年龄：**    | 21           |
 | **电话：** | 198xxxxxxxx       | **邮箱：**    | yishuiwang163@gmail.com |
-| **GitHub：** | https://github.com/yishuiwang | **岗位：**    | Golang后端开发 |
+| **GitHub：** | https://github.com/yishuiwang | **岗位：**    | Golang开发 |
 
 ## 教育经历 
 
