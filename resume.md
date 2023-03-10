@@ -28,7 +28,7 @@
 
 1. Tmod-Server-Manager
 
-   演示demo：
+   演示demo：http://8.130.11.142:3000/
 
    项目描述：全栈项目。Tmod-Server-Manager 是一个运行在 Linux 上的 TmodLoader 服务器管理程序，它可以方便地启动、停止和更新 Terraria 服务器。该项目采用了前后端分离的架构，前端使用了Material UI、TypeScript、React等技术，后端使用了Golang、Gin、gopsutil等技术。
 
