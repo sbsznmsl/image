@@ -28,6 +28,8 @@
 
 1. Tmod-Server-Manager
 
+   演示demo：
+
    项目描述：全栈项目。Tmod-Server-Manager 是一个运行在 Linux 上的 TmodLoader 服务器管理程序，它可以方便地启动、停止和更新 Terraria 服务器。该项目采用了前后端分离的架构，前端使用了Material UI、TypeScript、React等技术，后端使用了Golang、Gin、gopsutil等技术。
 
    - 使用多进程和多线程技术，实现了服务器的自动重启和资源监控。
@@ -38,12 +40,14 @@
 
 2. shippo-server 
 
+   项目地址：https://github.com/DreamBox2020/shippo-server
+
    项目描述：开源项目。shippo-server 是一个使用 Golang、Gin 和 GORM 开发的开源社交网站项目，类似于 BiliBili 网站的动态、文章、订单、相册等系统，实现了用户管理、文章管理、评论管理、微信登录、文件上传下载、物流对接等功能。我参与项目开发和优化，担任后端开发的职责。
 
    - 优化了路由注册，添加了代码注释，提高了代码的可读性和可维护性。
    - 撰写并测试了部分 API 接口，使用 Postman 进行测试，确保接口的正确性和可靠性。
    - 设计了数据库字段，通过精心的设计提高了系统的性能和扩展性。
-   - 为开源社交网站项目做出了贡献，学习了如何与他人协作开发
+   - 为开源社区项目做出了贡献，学习了如何与他人协作开发
 
 
 3. Ecloud For Whmcs
